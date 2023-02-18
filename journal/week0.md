@@ -10,3 +10,4 @@ For the assignment i  recreated the logical diagram for the crudder application,
 https://lucid.app/lucidchart/42f504d4-7467-4b37-a27e-398f383c3e41/edit?viewport_loc=-22%2C849%2C1707%2C821%2C0_0&invitationId=inv_89c6e2ad-cb75-497c-b6a6-56223103ef37
 
 
+![image](https://user-images.githubusercontent.com/54115472/219866545-2bc7d818-e7b6-4168-9804-89b76866e113.png)
