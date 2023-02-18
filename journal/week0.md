@@ -14,3 +14,11 @@ https://lucid.app/lucidchart/42f504d4-7467-4b37-a27e-398f383c3e41/edit?viewport_
 ![image](https://user-images.githubusercontent.com/54115472/219866638-2f989cd1-12f9-4d98-8a88-24c360591214.png)
 
 
+To be mindful of costs i set up a budget and alarms to alert in the event of exceeding my budgeted amounts
+![image](https://user-images.githubusercontent.com/54115472/219869684-0b61351e-c9bc-41da-b4fe-b3a9bd8bd918.png)
+
+
+![image](https://user-images.githubusercontent.com/54115472/219869358-b1c81617-ab63-421f-a825-b1083db3c4a1.png)
+
+to send alerts to email when 75 % of the amount is reached
+![image](https://user-images.githubusercontent.com/54115472/219869572-d4c23aba-cb1a-4cfe-868a-b88673161ea9.png)
