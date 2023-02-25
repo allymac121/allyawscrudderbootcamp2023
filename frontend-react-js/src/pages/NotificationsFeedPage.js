@@ -72,7 +72,7 @@ export default function NotificationsFeedPage() {
           activities={activities} 
         />
         <ActivityFeed 
-          title="notifications" 
+          title="notifications " 
           setReplyActivity={setReplyActivity} 
           setPopped={setPoppedReply} 
           activities={activities} 
