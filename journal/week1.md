@@ -33,7 +33,8 @@ To get it, one can
 ![image](https://user-images.githubusercontent.com/54115472/221358830-369713d8-1234-49be-a3c8-e77c320fe55e.png)
 
 updated the front-end & back-end to implement the notification feature of the app
-![image](https://user-images.githubusercontent.com/54115472/221365230-32c18e27-0268-4c1f-bd93-f762a0af18fb.png)
+![image](https://user-images.githubusercontent.com/54115472/221365810-a68cf8c1-6c94-41bc-af8b-db8bc2275466.png)
+
 
 Mount directories so we can make changes while we code
 
