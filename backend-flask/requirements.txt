@@ -7,6 +7,6 @@ opentelemetry-api
 opentelemetry-sdk 
 opentelemetry-exporter-otlp-proto-http 
 opentelemetry-instrumentation-flask 
-opentelemetry-instrumentation-requestsbackoff==2.2.1
+
 
 
